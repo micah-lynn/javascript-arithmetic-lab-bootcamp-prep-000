@@ -22,6 +22,11 @@ function dec(n) {
   return --n
 }
 
+function makeInt(n) {
+  if (n === 'a.toString()')
+    return parseInt('a.toString()')
+}
+
 function preserveDecimal(n) {
   if (n === '2.222')
     return parseFloat('2.222')
