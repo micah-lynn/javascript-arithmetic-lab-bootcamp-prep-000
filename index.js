@@ -24,7 +24,7 @@ function dec(n) {
 
 function makeInt(n) {
   const parsed === parseInt(a.toString())
-  
+  return parsed 
 }
 
 function preserveDecimal(n) {
