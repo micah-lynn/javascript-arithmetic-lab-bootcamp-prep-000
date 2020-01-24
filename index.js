@@ -23,10 +23,8 @@ function dec(n) {
 }
 
 function makeInt(n) {
-  if (n === a)
-    return parseInt('a')
-  else if (n === 'sldkjflksjf')
-    return (NaN)
+  const parsed === parseInt(a.toString())
+  
 }
 
 function preserveDecimal(n) {
