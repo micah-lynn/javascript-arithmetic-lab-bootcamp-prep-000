@@ -23,6 +23,6 @@ function dec(n) {
 }
 
 function makeInt(n) {
-  if (n)
+  if (a.toString())
     return parseInt('n')
 }
