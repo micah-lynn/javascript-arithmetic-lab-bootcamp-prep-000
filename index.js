@@ -23,6 +23,6 @@ function dec(n) {
 }
 
 function preserveDecimal(n) {
-  if (n === parseInt('2.222'))
-    return (parseInt())
+  if (n === '2.222')
+    return parseInt('2.222')
 }
