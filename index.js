@@ -22,7 +22,4 @@ function dec(n) {
   return --n
 }
 
-function makeInt(n) {
-  if (n === parseInt(a))
-    return ('n')
-}
+function 
