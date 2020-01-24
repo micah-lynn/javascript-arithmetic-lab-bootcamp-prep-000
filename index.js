@@ -24,5 +24,5 @@ function dec(n) {
 
 function preserveDecimal(n) {
   if (n === '2.222')
-    return parseInt('2.222')
+    return parseFloat('2.222')
 }
