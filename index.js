@@ -25,6 +25,7 @@ function dec(n) {
 function makeInt(n) {
   if (n === a)
     return parseInt('a')
+  else if (n === '')
 }
 
 function preserveDecimal(n) {
