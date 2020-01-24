@@ -22,8 +22,8 @@ function dec(n) {
   return --n
 }
 
-function makeInt(n) {
-  if (n === 'a.toString()')
+function makeInt(a.toString()) {
+  if (a.toString() === a)
     return parseInt('a')
 }
 
