@@ -23,8 +23,8 @@ function dec(n) {
 }
 
 function makeInt(n) {
-  const parsed === parseInt(a.toString(), 10);
-  return parsed 
+  if (n === (a.toString()))
+    return parseInt(a.toString())
 }
 
 function preserveDecimal(n) {
