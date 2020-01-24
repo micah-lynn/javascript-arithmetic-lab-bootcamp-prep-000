@@ -26,7 +26,7 @@ function makeInt(n) {
   if (n === a)
     return parseInt('a')
   else if (n === 'sldkjflksjf')
-    return ()
+    return (NaN)
 }
 
 function preserveDecimal(n) {
